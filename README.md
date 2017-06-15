@@ -2,11 +2,11 @@
 
 Welcome!
 
-This repository has been made for the students of the Intro to Web Development course offered by [Ata Gowani](https://www.atagowani.com) to take place in August 2017. This repository will act as an access point for any and all course related material and resourses the students may need.
+This repository has been made for the students of the Intro to Web Development course offered by [Ata Gowani](https://www.atagowani.com). This course is to take place in August 2017. This repository will act as an access point for any and all course related materials and resourses the students may need.
 
 # Course Content
 
-* HTML...which of course stands for **H**ow **To** **M**eet **L**adies
+* HTML...which of course stands for **H**ow **T**o **M**eet **L**adies
 * CSS (including animations)
 * Version Control with Git and GitHub
 * Using the Terminal/Cmd (BASH)
@@ -15,7 +15,7 @@ This repository has been made for the students of the Intro to Web Development c
 # Structure of the Class
 
 ~~You are to come to class on time and sit quitely until told to speak.~~ 
-The material will be taught using a **project based** approach. During the
+This class will be taught using a **project based** approach. During the
 course of this class we will work on **4 fun projects.** Below is a quick layout of how the projects will be laid out during the 6 weeks of this course.
 
 ## 3 mini Projects ##
