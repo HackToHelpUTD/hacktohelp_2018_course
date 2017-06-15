@@ -20,9 +20,9 @@ course of this class we will work on **4 fun projects.** Below is a quick layout
 
 ## 3 mini Projects ##
 
-Three out of the four projects will be mini projecs!
+Three out of the four projects will be mini projects!
 
-These projects will help with the application of what is learned in class.
+These projects will, at max, take 2 class periods to complete and will help with the application of what is learned in class.
 
 ## 1 BIG Project ##
 
