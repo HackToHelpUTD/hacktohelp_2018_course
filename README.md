@@ -2,7 +2,7 @@
 
 Welcome!
 
-This repository has been made for the students of the Intro to Web Development course offered by [Ata Gowani](https://www.atagowani.com). This course is to take place in August 2017. This repository will act as an access point for any and all course related materials and resourses the students may need.
+This repository has been made for the students of the Intro to Web Development course offered by [Ata Gowani](http://www.atagowani.com). This course is to take place in August 2017. This repository will act as an access point for any and all course related materials and resourses the students may need.
 
 # Course Content
 
