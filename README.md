@@ -16,13 +16,13 @@ This repository has been made for the students of the Intro to Web Development c
 
 There will be **seven sessions** in total and each session will be three hours long.
 
-Session 1 - August 13th, 2017
-Session 2 - August 20th, 2017
-Session 3 - August 27th, 2017
-Session 4 - September 3rd, 2017
-Session 5 - September 10th, 2017
-Session 6 - September 17th, 2017
-Session 7 - September 24th, 2017
+* Session 1 - August 13th, 2017
+* Session 2 - August 20th, 2017
+* Session 3 - August 27th, 2017
+* Session 4 - September 3rd, 2017
+* Session 5 - September 10th, 2017
+* Session 6 - September 17th, 2017
+* Session 7 - September 24th, 2017
 
 ## Structure of this Course
 
