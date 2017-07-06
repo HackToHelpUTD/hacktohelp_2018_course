@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/ITWD/ITWD/blob/fix_1/.github/logo-dark.png?raw=true" height="200"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/itwd/itwd/master/.github/logo-dark.png" height="200"><p>
 <h1 align="center">Intro to Web Development</h1>
 
 Welcome!
