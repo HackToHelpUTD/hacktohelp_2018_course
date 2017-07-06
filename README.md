@@ -1,3 +1,4 @@
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/29936157?v=3&s=200">><p>
 <h1 align="center">Intro to Web Development</h1>
 
 Welcome!
@@ -43,8 +44,8 @@ Hint: they will be fun!
 
 Project guidelines will be released on GitHub on the day they are assigned and one version of the source code will be available after the due date.
 
-### BIG Project
+### The BIG Project
 
 There will be one final project.
 
-This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be solving an existing problem for a non-profit by building a website for them based on their needs.
+This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** for a non-profit by building a website for them based on their needs.
