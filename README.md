@@ -33,13 +33,13 @@ There will be **seven sessions** in total and each session will be three hours l
 ## Structure of this Course
 
 ~~You are to come to class on time and sit quitely until told to speak.~~ 
-This course will be taught using a **project based** approach. During the this course we will work on **three fun mini projects** and **one big project** which will go live once completed.
+This course will be taught using a **project based** approach. During the course we will work on **three fun mini projects** and **one big project** which will go live once completed.
 
 ### mini Projects
 
-The mini projects will, at max, take two class periods to complete and will help with the application of what is learned in class.
+The mini projects will, at max, take two sessions to complete and will help with the application of what is being taught.
 
-These mini project are there to help you get ready for the final project.
+The purpose of the mini projects is to prepare for our final project, the non-profit's website.
 
 #### What will the mini Projects :honeybee:?
 
@@ -47,7 +47,7 @@ Shhh... it's top secret.
 
 Hint: they will be fun!
 
-Project guidelines will be released on GitHub on the day they are assigned and one version of the source code will be available after the due date.
+Project guidelines for each project will be released on GitHub on the day that it is assigned and the code for **one way** of doing the project will be available after the due date.
 
 ### The BIG Project
 
