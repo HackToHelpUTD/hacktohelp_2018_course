@@ -1,9 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/itwd/itwd/master/.github/logo-dark.png" height="200"><p>
 <h1 align="center">Intro to Web Development</h1>
+<p align="center">It's not just a course.</p>
 
 Welcome!
 
 This repository has been made for the students of the Intro to Web Development course offered by [Ata Gowani](http://www.atagowani.com). This repository will act as an access point for any and all course materials and resources the students may need.
+
+## What makes this course "not just a course"?
+
+During this course you won't just be learning the material by doing meaningless projects, instead you will get the chance to work on a website for a non-profit that will go live once completed.
 
 ## Course Content
 
