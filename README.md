@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/itwd/itwd/master/.github/logo-dark.png" height="200"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/ITWD/ITWD/master/.github/logo-dark.png" height="200"><p>
 <h1 align="center">Intro to Web Development</h1>
 <p align="center">It's not just a course.</p>
 
@@ -47,7 +47,7 @@ Shhh... it's top secret.
 
 Hint: they will be fun!
 
-Project guidelines for each project will be released on GitHub on the day that it is assigned and the code for **one way** of doing the project will be available after the due date.
+Project guidelines for each project will be released on GitHub on the day that it is assigned and **one way** of doing the project will be available on GitHub after the due date.
 
 ### The BIG Project
 
