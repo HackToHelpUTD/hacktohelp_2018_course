@@ -18,6 +18,10 @@ During this course you won't just be learning the material by doing meaningless 
 * Using the Terminal (BASH)
 * Debugging simple websites w/ Chrome DevTools
 
+## Registration Fee
+
+There will be a **$20 registration** fee due at the first session. The registration fee will cover for snacks and exciting prizes!
+
 ## Session Dates
 
 There will be **seven sessions** in total and each session will be three hours long.
@@ -54,3 +58,7 @@ Project guidelines for each project will be released on GitHub on the day that i
 There will be one final project.
 
 This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** for a non-profit by building a website for them based on their needs.
+
+## Still have Questions?
+
+Get [in touch](mailto:atagowani@gmail.com).
