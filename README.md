@@ -57,12 +57,8 @@ Project guidelines for each project will be released on GitHub on the day that i
 
 There will be one final project.
 
-<<<<<<< HEAD
 This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** for a non-profit by building a website for them based on their needs.
 
 ## Still have Questions?
 
 Get [in touch](mailto:atagowani@gmail.com).
-=======
-This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** by building a website for a great cause based on needs presented.
->>>>>>> 2bca8fc9497a413c705a27fcdaea22604b0d2af3
