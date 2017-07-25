@@ -8,7 +8,7 @@ This repository has been made for the students of the Intro to Web Development c
 
 ## What makes this course "not just a course"?
 
-During this course you won't just be learning the material by doing meaningless projects, instead you will get the chance to work on a website for a non-profit that will go live once completed.
+During this course you won't just be learning the material by doing meaningless projects, instead you will get the chance to work on a website for a great cause that will go live once completed.
 
 ## Course Content
 
@@ -37,7 +37,7 @@ There will be **seven sessions** in total and each session will be three hours l
 ## Structure of this Course
 
 ~~You are to come to class on time and sit quitely until told to speak.~~ 
-This course will be taught using a **project based** approach. During the course we will work on **three fun mini projects** and **one big project** which will go live once completed.
+This course will be taught using a **project based** approach. During the course we will work on **three fun mini projects** and **one big project** that will go live once completed.
 
 ### mini Projects
 
@@ -57,8 +57,12 @@ Project guidelines for each project will be released on GitHub on the day that i
 
 There will be one final project.
 
+<<<<<<< HEAD
 This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** for a non-profit by building a website for them based on their needs.
 
 ## Still have Questions?
 
 Get [in touch](mailto:atagowani@gmail.com).
+=======
+This is what separates this course from a typical course. Your final project will not be a tough project that I've made up just to test you. Instead you will be **solving an existing problem** by building a website for a great cause based on needs presented.
+>>>>>>> 2bca8fc9497a413c705a27fcdaea22604b0d2af3
