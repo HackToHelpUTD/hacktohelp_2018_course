@@ -24,7 +24,7 @@ There will be a **$20 registration** fee due at the first session. The registrat
 
 ## Session Dates
 
-There will be **seven sessions** in total and each session will be three hours long.
+There will be **seven sessions** in total and each session will be three hours long and will go from 3 P.M. to 6P.M.
 
 * Session 1 - August 13th, 2017
 * Session 2 - August 20th, 2017
