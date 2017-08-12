@@ -2,3 +2,6 @@
 mini_projects/project_1
 mini_projects/project_2
 mini_projects/project_3
+
+# Mac files
+.DS_store
