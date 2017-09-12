@@ -15,7 +15,7 @@ During this course you won't just be learning the material by doing meaningless 
 * HTML
 * CSS (including animations)
 * Version Control with Git and GitHub
-* Using the Terminal (BASH)
+* ~~Using the Terminal (BASH)~~
 * Debugging simple websites w/ Chrome DevTools
 
 ## Registration Fee
