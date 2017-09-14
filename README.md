@@ -15,7 +15,7 @@ During this course you won't just be learning the material by doing meaningless 
 * HTML
 * CSS (including animations)
 * Version Control with Git and GitHub
-* Using the Terminal (BASH)
+* ~~Using the Terminal (BASH)~~
 * Debugging simple websites w/ Chrome DevTools
 
 ## Registration Fee
@@ -33,8 +33,9 @@ There will be **seven sessions** in total and each session will be three hours l
 * Session 3 - August 27th, 2017
 * Session 4 - September 3rd, 2017
 * Session 5 - September 10th, 2017
-* Session 6 - September 17th, 2017
-* Session 7 - September 24th, 2017
+* ~~Session 6 - September 17th, 2017~~
+* Session 6 - September 24th, 2017
+* Session 7 - October 1st, 2017
 
 ## Structure of this Course
 
