@@ -21,13 +21,13 @@ During this course you won't just be learning the material by doing meaningless 
 
 ## Registration Fee
 
-There will be a **$100 registration** fee due at the first session. The registration fee will cover for breakfast, lunch, snacks, and exciting prizes!
+There will be a **$100 registration** fee due at the first session. The registration fee will cover for breakfast, lunch, snacks, a t-shirt, and exciting prizes!
 
 ## Session Dates
 
 **Location:** The University of Texas at Dallas
 
-There will be **seven sessions** in total and each session will be three hours long and will go from 10 A.M. to 5 P.M.
+There will be a total of **seven sessions**. Each session will be seven hours long and will go from 10 A.M. to 5 P.M.
 
 * Session 1 - June 2nd, 2018
 * Session 2 - June 3rd, 2018
@@ -35,11 +35,12 @@ There will be **seven sessions** in total and each session will be three hours l
 * Session 4 - June 10th, 2018
 * Session 5 - June 16th, 2018
 * Session 6 - June 17th, 2018
+* Session 7 - June 23rd, 2018
 
 ## Structure of this Course
 
 ~~You are to come to class on time and sit quitely until told to speak.~~ 
-This course will be taught using a **project based** approach. During the course we will work on **five fun mini projects** and **one big project** that will go live once completed.
+This course will be taught using a **project-based** approach. During the course we will work on **five fun mini projects** and **one big project** that will go live once completed.
 
 ### mini Projects
 
@@ -63,4 +64,4 @@ This is what separates this course from a typical course. Your final project wil
 
 ## Still have Questions?
 
-Get [in touch](mailto:humans@hacktohelp.us).
+Get [in touch](mailto:info@hacktohelp.us).
