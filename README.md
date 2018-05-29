@@ -29,7 +29,7 @@ There will be a **$100 registration** fee due at the first session. The registra
 
 There will be a total of **seven sessions**. Each session will be seven hours long and will go from 10 A.M. to 5 P.M.
 
-* Session 1 - June 2nd, 2018
+* Session 1 - June 2nd, 2018 (from 2 P.M. to 5 P.M.)
 * Session 2 - June 3rd, 2018
 * Session 3 - June 9th, 2018
 * Session 4 - June 10th, 2018
